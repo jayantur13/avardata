@@ -14,7 +14,24 @@
       },
       "nextAiringEpisode": {
         "episode": 1181,
-        "timeUntilAiring": 7465307
+        "timeUntilAiring": 6844416
+      }
+    },
+    {
+      "id": 195516,
+      "format": "TV",
+      "season": "FALL",
+      "seasonYear": 2026,
+      "title": {
+        "english": "The Apothecary Diaries Season 3",
+        "romaji": "Kusuriya no Hitorigoto 3rd Season"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195516-MJpUZlOberqH.jpg"
+      },
+      "nextAiringEpisode": {
+        "episode": 3,
+        "timeUntilAiring": 17856
       }
     },
     {
@@ -31,24 +48,7 @@
       },
       "nextAiringEpisode": {
         "episode": 9,
-        "timeUntilAiring": 897947
-      }
-    },
-    {
-      "id": 195516,
-      "format": "TV",
-      "season": "FALL",
-      "seasonYear": 2026,
-      "title": {
-        "english": "The Apothecary Diaries Season 3",
-        "romaji": "Kusuriya no Hitorigoto 3rd Season"
-      },
-      "coverImage": {
-        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195516-MJpUZlOberqH.jpg"
-      },
-      "nextAiringEpisode": {
-        "episode": 2,
-        "timeUntilAiring": 33947
+        "timeUntilAiring": 277056
       }
     },
     {
@@ -64,8 +64,8 @@
         "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195604-tSZcfKbVqSEG.jpg"
       },
       "nextAiringEpisode": {
-        "episode": 2,
-        "timeUntilAiring": 120347
+        "episode": 3,
+        "timeUntilAiring": 104256
       }
     },
     {
@@ -81,8 +81,8 @@
         "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx235-MyYT7K3chBdO.jpg"
       },
       "nextAiringEpisode": {
-        "episode": 1216,
-        "timeUntilAiring": 102347
+        "episode": 1217,
+        "timeUntilAiring": 86256
       }
     },
     {
@@ -98,8 +98,8 @@
         "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180136-gtMTCRlOD4OE.jpg"
       },
       "nextAiringEpisode": {
-        "episode": 16,
-        "timeUntilAiring": 557507
+        "episode": 17,
+        "timeUntilAiring": 541416
       }
     },
     {
@@ -115,8 +115,8 @@
         "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx159042-GGFwlDskc5vR.png"
       },
       "nextAiringEpisode": {
-        "episode": 3,
-        "timeUntilAiring": 471347
+        "episode": 4,
+        "timeUntilAiring": 455256
       }
     },
     {
@@ -132,8 +132,8 @@
         "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189123-0secXELIhkIW.jpg"
       },
       "nextAiringEpisode": {
-        "episode": 2,
-        "timeUntilAiring": 183347
+        "episode": 3,
+        "timeUntilAiring": 167256
       }
     },
     {
@@ -149,25 +149,8 @@
         "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx210482-P1VNKbqdJ6Zj.jpg"
       },
       "nextAiringEpisode": {
-        "episode": 3,
-        "timeUntilAiring": 12347
-      }
-    },
-    {
-      "id": 178083,
-      "format": "TV",
-      "season": "FALL",
-      "seasonYear": 2026,
-      "title": {
-        "english": "Tokyo Revengers: War of the Three Titans Arc",
-        "romaji": "Tokyo Revengers: Santen Sensou-hen"
-      },
-      "coverImage": {
-        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178083-bg7pg6TCHwtG.jpg"
-      },
-      "nextAiringEpisode": {
-        "episode": 2,
-        "timeUntilAiring": 44327
+        "episode": 5,
+        "timeUntilAiring": 601056
       }
     },
     {
@@ -183,25 +166,8 @@
         "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212888-NhyvqPt5aIuJ.jpg"
       },
       "nextAiringEpisode": {
-        "episode": 3,
-        "timeUntilAiring": 208547
-      }
-    },
-    {
-      "id": 213805,
-      "format": "TV",
-      "season": "FALL",
-      "seasonYear": 2026,
-      "title": {
-        "english": "The Ramparts of Ice Season 2",
-        "romaji": "Koori no Jouheki 2nd Season"
-      },
-      "coverImage": {
-        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213805-Nokui3uWlIlw.png"
-      },
-      "nextAiringEpisode": {
-        "episode": 3,
-        "timeUntilAiring": 555707
+        "episode": 4,
+        "timeUntilAiring": 192456
       }
     },
     {
@@ -217,42 +183,8 @@
         "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191656-xFHtxM8SUTdU.png"
       },
       "nextAiringEpisode": {
-        "episode": 2,
-        "timeUntilAiring": 125747
-      }
-    },
-    {
-      "id": 172192,
-      "format": "TV",
-      "season": "FALL",
-      "seasonYear": 2026,
-      "title": {
-        "english": "A Returner's Magic Should be Special Season 2",
-        "romaji": "Kikansha no Mahou wa Tokubetsu desu 2nd Season"
-      },
-      "coverImage": {
-        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172192-W7P5xEUaxF3y.jpg"
-      },
-      "nextAiringEpisode": {
-        "episode": 2,
-        "timeUntilAiring": 472247
-      }
-    },
-    {
-      "id": 158871,
-      "format": "TV",
-      "season": "SPRING",
-      "seasonYear": 2023,
-      "title": {
-        "english": "Pokémon Horizons: The Series",
-        "romaji": "Pocket Monsters (2023)"
-      },
-      "coverImage": {
-        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158871-GBM9AMDfDRSu.jpg"
-      },
-      "nextAiringEpisode": {
-        "episode": 152,
-        "timeUntilAiring": 19247
+        "episode": 3,
+        "timeUntilAiring": 109656
       }
     },
     {
@@ -268,25 +200,76 @@
         "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205909-DM0fAzNQulod.jpg"
       },
       "nextAiringEpisode": {
-        "episode": 1,
-        "timeUntilAiring": 35747
+        "episode": 2,
+        "timeUntilAiring": 19656
       }
     },
     {
-      "id": 152677,
+      "id": 178083,
       "format": "TV",
       "season": "FALL",
       "seasonYear": 2026,
       "title": {
-        "english": "The Detective Is Already Dead Season 2",
-        "romaji": "Tantei wa mou, Shindeiru. Season 2"
+        "english": "Tokyo Revengers: War of the Three Titans Arc",
+        "romaji": "Tokyo Revengers: Santen Sensou-hen"
       },
       "coverImage": {
-        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx152677-gtJbgjE94lCN.png"
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178083-bg7pg6TCHwtG.jpg"
       },
       "nextAiringEpisode": {
-        "episode": 2,
-        "timeUntilAiring": 460547
+        "episode": 3,
+        "timeUntilAiring": 28236
+      }
+    },
+    {
+      "id": 213805,
+      "format": "TV",
+      "season": "FALL",
+      "seasonYear": 2026,
+      "title": {
+        "english": "The Ramparts of Ice Season 2",
+        "romaji": "Koori no Jouheki 2nd Season"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213805-Nokui3uWlIlw.png"
+      },
+      "nextAiringEpisode": {
+        "episode": 4,
+        "timeUntilAiring": 539616
+      }
+    },
+    {
+      "id": 207329,
+      "format": "TV",
+      "season": "FALL",
+      "seasonYear": 2026,
+      "title": {
+        "english": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
+        "romaji": "Tsuihou Sareta Cheat Fuyo Majutsushi wa Kimama na Second Life wo Ouka Suru.: Ore wa Buki dake ja Naku, Arayuru Mono ni \"Kyouka Point\" wo Fuyo Dekiru shi, Ore no Ishi de Itsudemo Kouka wo Kaijo Dekiru kedo, Nokotta Hitotachi Daijoubu?"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b207329-6VPeZIDfF4Sr.png"
+      },
+      "nextAiringEpisode": {
+        "episode": 3,
+        "timeUntilAiring": 367056
+      }
+    },
+    {
+      "id": 172192,
+      "format": "TV",
+      "season": "FALL",
+      "seasonYear": 2026,
+      "title": {
+        "english": "A Returner's Magic Should be Special Season 2",
+        "romaji": "Kikansha no Mahou wa Tokubetsu desu 2nd Season"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172192-W7P5xEUaxF3y.jpg"
+      },
+      "nextAiringEpisode": {
+        "episode": 3,
+        "timeUntilAiring": 456156
       }
     },
     {
@@ -302,8 +285,42 @@
         "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185756-xPCl0RyQ7fXD.jpg"
       },
       "nextAiringEpisode": {
+        "episode": 4,
+        "timeUntilAiring": 192456
+      }
+    },
+    {
+      "id": 152677,
+      "format": "TV",
+      "season": "FALL",
+      "seasonYear": 2026,
+      "title": {
+        "english": "The Detective Is Already Dead Season 2",
+        "romaji": "Tantei wa mou, Shindeiru. Season 2"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx152677-gtJbgjE94lCN.png"
+      },
+      "nextAiringEpisode": {
         "episode": 3,
-        "timeUntilAiring": 208547
+        "timeUntilAiring": 444456
+      }
+    },
+    {
+      "id": 158871,
+      "format": "TV",
+      "season": "SPRING",
+      "seasonYear": 2023,
+      "title": {
+        "english": "Pokémon Horizons: The Series",
+        "romaji": "Pocket Monsters (2023)"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158871-GBM9AMDfDRSu.jpg"
+      },
+      "nextAiringEpisode": {
+        "episode": 153,
+        "timeUntilAiring": 3156
       }
     },
     {
@@ -319,25 +336,8 @@
         "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191788-XC6F24LdX6a4.jpg"
       },
       "nextAiringEpisode": {
-        "episode": 2,
-        "timeUntilAiring": 185147
-      }
-    },
-    {
-      "id": 966,
-      "format": "TV",
-      "season": "SPRING",
-      "seasonYear": 1992,
-      "title": {
-        "english": "Shin Chan",
-        "romaji": "Crayon Shin-chan"
-      },
-      "coverImage": {
-        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b966-QUCdKAk4ls9J.jpg"
-      },
-      "nextAiringEpisode": {
-        "episode": 1356,
-        "timeUntilAiring": 96947
+        "episode": 3,
+        "timeUntilAiring": 169056
       }
     }
   ]
