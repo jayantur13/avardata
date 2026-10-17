@@ -1,40 +1,40 @@
 {
   "data": [
     {
-      "id": 180894,
+      "id": 186742,
       "title": {
-        "english": "Romelia War Chronicle",
-        "romaji": "Romelia Senki: Maou wo Taoshita nochi mo Jinrui Yabasou dakara Guntai Soshiki Shita"
+        "english": "A Certain Dark Item",
+        "romaji": "Toaru Anbu no ITEM"
       },
       "coverImage": {
-        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180894-o3pz4DWFm3je.png"
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186742-v7yfbefc8fuO.png"
       },
       "averageScore": 69,
       "studios": {
         "nodes": [
           {
-            "name": "Atra"
+            "name": "J.C.STAFF"
           }
         ]
       },
-      "format": "ONA",
+      "format": "TV",
       "season": "FALL",
       "seasonYear": 2026
     },
     {
-      "id": 209502,
+      "id": 176314,
       "title": {
-        "english": "The Cold Sato-san is Only Sweet to Me",
-        "romaji": "Shiotaiou no Satou-san ga Ore ni dake Amai"
+        "english": "Sasaki and Peeps Season 2",
+        "romaji": "Sasaki to Pii-chan Season 2"
       },
       "coverImage": {
-        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209502-C81oN8M4Smlo.jpg"
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176314-lpvca6vjmkeO.jpg"
       },
       "averageScore": 68,
       "studios": {
         "nodes": [
           {
-            "name": "Tezuka Productions"
+            "name": "SILVER LINK."
           }
         ]
       },
@@ -43,25 +43,88 @@
       "seasonYear": 2026
     },
     {
-      "id": 235,
+      "id": 206949,
       "title": {
-        "english": "Detective Conan",
-        "romaji": "Meitantei Conan"
+        "english": "Nia Liston: The Merciless Maiden",
+        "romaji": "Kyouran Reijou Nia Liston"
       },
       "coverImage": {
-        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx235-MyYT7K3chBdO.jpg"
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206949-4HYI3YuP0eLI.png"
       },
-      "averageScore": 82,
+      "averageScore": 75,
       "studios": {
         "nodes": [
           {
-            "name": "TMS Entertainment"
+            "name": "KONAMI animation"
           }
         ]
       },
       "format": "TV",
-      "season": "WINTER",
-      "seasonYear": 1996
+      "season": "FALL",
+      "seasonYear": 2026
+    },
+    {
+      "id": 212503,
+      "title": {
+        "english": "The Iceblade Sorcerer Shall Rule the World II",
+        "romaji": "Hyouken no Majutsushi ga Sekai wo Suberu II"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212503-sXBpRZr96c4e.jpg"
+      },
+      "averageScore": 67,
+      "studios": {
+        "nodes": [
+          {
+            "name": "Zero-G"
+          }
+        ]
+      },
+      "format": "TV",
+      "season": "FALL",
+      "seasonYear": 2026
+    },
+    {
+      "id": 202250,
+      "title": {
+        "english": "Magic Repo Man: Dumped by My Party, I’ll Cash In With a Cute Support Fairy to Become the Strongest!",
+        "romaji": "Kashita Maryoku wa [Revo Barai] de Kyousei Choushuu"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202250-mpm2cvr92Au2.jpg"
+      },
+      "averageScore": 60,
+      "studios": {
+        "nodes": [
+          {
+            "name": "SynergySP"
+          }
+        ]
+      },
+      "format": "TV",
+      "season": "FALL",
+      "seasonYear": 2026
+    },
+    {
+      "id": 206814,
+      "title": {
+        "english": "Dragon Ball Super: Beerus",
+        "romaji": "Dragon Ball Super: Beerus"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206814-PVVzRbf1IQpe.jpg"
+      },
+      "averageScore": 81,
+      "studios": {
+        "nodes": [
+          {
+            "name": "Toei Animation"
+          }
+        ]
+      },
+      "format": "TV",
+      "season": "FALL",
+      "seasonYear": 2026
     },
     {
       "id": 207329,
@@ -82,72 +145,6 @@
       },
       "format": "TV",
       "season": "FALL",
-      "seasonYear": 2026
-    },
-    {
-      "id": 208025,
-      "title": {
-        "english": "I'm Dating a Dark Summoner",
-        "romaji": "Dark Summoner to Dekiteiru"
-      },
-      "coverImage": {
-        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx208025-JKvqWNr8rz8l.jpg"
-      },
-      "averageScore": 67,
-      "studios": {
-        "nodes": [
-          {
-            "name": "AtoriE"
-          },
-          {
-            "name": "Nyan Pollution-ω-"
-          }
-        ]
-      },
-      "format": "TV_SHORT",
-      "season": "FALL",
-      "seasonYear": 2026
-    },
-    {
-      "id": 189123,
-      "title": {
-        "english": "Blue Box Season 2",
-        "romaji": "Ao no Hako Season 2"
-      },
-      "coverImage": {
-        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189123-0secXELIhkIW.jpg"
-      },
-      "averageScore": 81,
-      "studios": {
-        "nodes": [
-          {
-            "name": "Electric Circus"
-          }
-        ]
-      },
-      "format": "TV",
-      "season": "FALL",
-      "seasonYear": 2026
-    },
-    {
-      "id": 203490,
-      "title": {
-        "english": "Please Excuse My Younger Brothers",
-        "romaji": "Uchi no Otouto-domo ga Sumimasen"
-      },
-      "coverImage": {
-        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx203490-YQXiymUiDQNA.jpg"
-      },
-      "averageScore": 69,
-      "studios": {
-        "nodes": [
-          {
-            "name": "Lay-duce"
-          }
-        ]
-      },
-      "format": "TV",
-      "season": "SUMMER",
       "seasonYear": 2026
     }
   ]
