@@ -11,7 +11,8 @@
       "format": "TV",
       "season": "FALL",
       "season_year": 2026,
-      "status": "RELEASING"
+      "status": "RELEASING",
+      "airing_at": 1792781644
     },
     {
       "id": 205909,
@@ -23,7 +24,8 @@
       "format": "TV",
       "season": "FALL",
       "season_year": 2026,
-      "status": "RELEASING"
+      "status": "RELEASING",
+      "airing_at": 1792783442
     },
     {
       "id": 178083,
@@ -35,7 +37,8 @@
       "format": "TV",
       "season": "FALL",
       "season_year": 2026,
-      "status": "RELEASING"
+      "status": "RELEASING",
+      "airing_at": 1792792019
     }
   ]
 }
