@@ -1,44 +1,44 @@
 {
-  "date": "2026-10-23",
+  "date": "2026-10-24",
   "data": [
     {
-      "id": 195516,
-      "title_english": "Kusuriya no Hitorigoto 3rd Season",
-      "title_romaji": "Kusuriya no Hitorigoto 3rd Season",
-      "cover_image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195516-MJpUZlOberqH.jpg",
+      "id": 195604,
+      "title_english": "Black Clover 2nd Season",
+      "title_romaji": "Black Clover 2nd Season",
+      "cover_image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195604-tSZcfKbVqSEG.jpg",
       "next_ep": 4,
       "next_ep_time": 48598,
       "format": "TV",
       "season": "FALL",
       "season_year": 2026,
       "status": "RELEASING",
-      "airing_at": 1792783799
+      "airing_at": 1792851614
     },
     {
-      "id": 205909,
-      "title_english": "Hotaru no Yomeiri",
-      "title_romaji": "Hotaru no Yomeiri",
-      "cover_image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205909-DM0fAzNQulod.jpg",
-      "next_ep": 3,
-      "next_ep_time": 50396,
-      "format": "TV",
-      "season": "FALL",
-      "season_year": 2026,
-      "status": "RELEASING",
-      "airing_at": 1792785597
-    },
-    {
-      "id": 178083,
-      "title_english": "Tokyo Revengers: War of the Three Titans Arc",
-      "title_romaji": "Tokyo Revengers: Santen Sensou-hen",
-      "cover_image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178083-bg7pg6TCHwtG.jpg",
+      "id": 202250,
+      "title_english": "Magic Repo Man: Dumped by My Party, I’ll Cash In With a Cute Support Fairy to Become the Strongest!",
+      "title_romaji": "Kashita Maryoku wa [Revo Barai] de Kyousei Choushuu",
+      "cover_image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202250-mpm2cvr92Au2.jpg",
       "next_ep": 4,
-      "next_ep_time": 58973,
+      "next_ep_time": 57590,
       "format": "TV",
       "season": "FALL",
       "season_year": 2026,
       "status": "RELEASING",
-      "airing_at": 1792794174
+      "airing_at": 1792860606
+    },
+    {
+      "id": 209872,
+      "title_english": "Ranma 1/2 (2024) 3rd Season",
+      "title_romaji": "Ranma 1/2 (2024) 3rd Season",
+      "cover_image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209872-RBeVPqwejHFp.jpg",
+      "next_ep": 4,
+      "next_ep_time": 55550,
+      "format": "TV",
+      "season": "FALL",
+      "season_year": 2026,
+      "status": "RELEASING",
+      "airing_at": 1792858566
     }
   ]
 }
