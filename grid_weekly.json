@@ -14,7 +14,7 @@
       },
       "nextAiringEpisode": {
         "episode": 1181,
-        "timeUntilAiring": 6673073
+        "timeUntilAiring": 6034190
       }
     },
     {
@@ -30,25 +30,8 @@
         "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195516-MJpUZlOberqH.jpg"
       },
       "nextAiringEpisode": {
-        "episode": 4,
-        "timeUntilAiring": 451313
-      }
-    },
-    {
-      "id": 185874,
-      "format": "TV",
-      "season": "SUMMER",
-      "seasonYear": 2026,
-      "title": {
-        "english": "BLEACH: Thousand-Year Blood War - The Calamity",
-        "romaji": "BLEACH: Sennen Kessen-hen - Kashin-tan"
-      },
-      "coverImage": {
-        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185874-aU3e6tBT6wwA.jpg"
-      },
-      "nextAiringEpisode": {
-        "episode": 9,
-        "timeUntilAiring": 105713
+        "episode": 5,
+        "timeUntilAiring": 417230
       }
     },
     {
@@ -64,8 +47,25 @@
         "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195604-tSZcfKbVqSEG.jpg"
       },
       "nextAiringEpisode": {
-        "episode": 4,
-        "timeUntilAiring": 537713
+        "episode": 5,
+        "timeUntilAiring": 503630
+      }
+    },
+    {
+      "id": 185874,
+      "format": "TV",
+      "season": "SUMMER",
+      "seasonYear": 2026,
+      "title": {
+        "english": "BLEACH: Thousand-Year Blood War - The Calamity",
+        "romaji": "BLEACH: Sennen Kessen-hen - Kashin-tan"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185874-aU3e6tBT6wwA.jpg"
+      },
+      "nextAiringEpisode": {
+        "episode": 10,
+        "timeUntilAiring": 75230
       }
     },
     {
@@ -82,7 +82,7 @@
       },
       "nextAiringEpisode": {
         "episode": 1218,
-        "timeUntilAiring": 519713
+        "timeUntilAiring": 485630
       }
     },
     {
@@ -98,8 +98,8 @@
         "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180136-gtMTCRlOD4OE.jpg"
       },
       "nextAiringEpisode": {
-        "episode": 17,
-        "timeUntilAiring": 370073
+        "episode": 18,
+        "timeUntilAiring": 335990
       }
     },
     {
@@ -115,8 +115,8 @@
         "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189123-0secXELIhkIW.jpg"
       },
       "nextAiringEpisode": {
-        "episode": 4,
-        "timeUntilAiring": 600713
+        "episode": 5,
+        "timeUntilAiring": 566630
       }
     },
     {
@@ -132,42 +132,8 @@
         "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205909-DM0fAzNQulod.jpg"
       },
       "nextAiringEpisode": {
-        "episode": 3,
-        "timeUntilAiring": 453113
-      }
-    },
-    {
-      "id": 178083,
-      "format": "TV",
-      "season": "FALL",
-      "seasonYear": 2026,
-      "title": {
-        "english": "Tokyo Revengers: War of the Three Titans Arc",
-        "romaji": "Tokyo Revengers: Santen Sensou-hen"
-      },
-      "coverImage": {
-        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178083-bg7pg6TCHwtG.jpg"
-      },
-      "nextAiringEpisode": {
         "episode": 4,
-        "timeUntilAiring": 461693
-      }
-    },
-    {
-      "id": 213805,
-      "format": "TV",
-      "season": "FALL",
-      "seasonYear": 2026,
-      "title": {
-        "english": "The Ramparts of Ice Season 2",
-        "romaji": "Koori no Jouheki 2nd Season"
-      },
-      "coverImage": {
-        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213805-Nokui3uWlIlw.png"
-      },
-      "nextAiringEpisode": {
-        "episode": 4,
-        "timeUntilAiring": 368273
+        "timeUntilAiring": 419030
       }
     },
     {
@@ -183,8 +149,42 @@
         "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b207329-6VPeZIDfF4Sr.png"
       },
       "nextAiringEpisode": {
-        "episode": 3,
-        "timeUntilAiring": 195713
+        "episode": 4,
+        "timeUntilAiring": 161630
+      }
+    },
+    {
+      "id": 178083,
+      "format": "TV",
+      "season": "FALL",
+      "seasonYear": 2026,
+      "title": {
+        "english": "Tokyo Revengers: War of the Three Titans Arc",
+        "romaji": "Tokyo Revengers: Santen Sensou-hen"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178083-bg7pg6TCHwtG.jpg"
+      },
+      "nextAiringEpisode": {
+        "episode": 5,
+        "timeUntilAiring": 427610
+      }
+    },
+    {
+      "id": 213805,
+      "format": "TV",
+      "season": "FALL",
+      "seasonYear": 2026,
+      "title": {
+        "english": "The Ramparts of Ice Season 2",
+        "romaji": "Koori no Jouheki 2nd Season"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213805-Nokui3uWlIlw.png"
+      },
+      "nextAiringEpisode": {
+        "episode": 5,
+        "timeUntilAiring": 334190
       }
     },
     {
@@ -200,8 +200,8 @@
         "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172192-W7P5xEUaxF3y.jpg"
       },
       "nextAiringEpisode": {
-        "episode": 3,
-        "timeUntilAiring": 284813
+        "episode": 4,
+        "timeUntilAiring": 250730
       }
     },
     {
@@ -217,59 +217,8 @@
         "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185756-xPCl0RyQ7fXD.jpg"
       },
       "nextAiringEpisode": {
-        "episode": 4,
-        "timeUntilAiring": 21113
-      }
-    },
-    {
-      "id": 152677,
-      "format": "TV",
-      "season": "FALL",
-      "seasonYear": 2026,
-      "title": {
-        "english": "The Detective Is Already Dead Season 2",
-        "romaji": "Tantei wa mou, Shindeiru. Season 2"
-      },
-      "coverImage": {
-        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx152677-gtJbgjE94lCN.png"
-      },
-      "nextAiringEpisode": {
-        "episode": 3,
-        "timeUntilAiring": 273113
-      }
-    },
-    {
-      "id": 158871,
-      "format": "TV",
-      "season": "SPRING",
-      "seasonYear": 2023,
-      "title": {
-        "english": "Pokémon Horizons: The Series",
-        "romaji": "Pocket Monsters (2023)"
-      },
-      "coverImage": {
-        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158871-GBM9AMDfDRSu.jpg"
-      },
-      "nextAiringEpisode": {
-        "episode": 154,
-        "timeUntilAiring": 436613
-      }
-    },
-    {
-      "id": 191788,
-      "format": "TV",
-      "season": "FALL",
-      "seasonYear": 2026,
-      "title": {
-        "english": "Aoashi Season 2",
-        "romaji": "Aoashi 2nd Season"
-      },
-      "coverImage": {
-        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191788-XC6F24LdX6a4.jpg"
-      },
-      "nextAiringEpisode": {
-        "episode": 4,
-        "timeUntilAiring": 602513
+        "episode": 6,
+        "timeUntilAiring": 591830
       }
     },
     {
@@ -285,8 +234,8 @@
         "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206814-PVVzRbf1IQpe.jpg"
       },
       "nextAiringEpisode": {
-        "episode": 2,
-        "timeUntilAiring": 20273
+        "episode": 4,
+        "timeUntilAiring": 590990
       }
     },
     {
@@ -302,8 +251,25 @@
         "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207191-VgkIzfH92WoZ.jpg"
       },
       "nextAiringEpisode": {
-        "episode": 3,
-        "timeUntilAiring": 100313
+        "episode": 4,
+        "timeUntilAiring": 66230
+      }
+    },
+    {
+      "id": 152677,
+      "format": "TV",
+      "season": "FALL",
+      "seasonYear": 2026,
+      "title": {
+        "english": "The Detective Is Already Dead Season 2",
+        "romaji": "Tantei wa mou, Shindeiru. Season 2"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx152677-gtJbgjE94lCN.png"
+      },
+      "nextAiringEpisode": {
+        "episode": 4,
+        "timeUntilAiring": 239030
       }
     },
     {
@@ -319,8 +285,25 @@
         "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206949-4HYI3YuP0eLI.png"
       },
       "nextAiringEpisode": {
-        "episode": 3,
-        "timeUntilAiring": 186473
+        "episode": 4,
+        "timeUntilAiring": 152390
+      }
+    },
+    {
+      "id": 191788,
+      "format": "TV",
+      "season": "FALL",
+      "seasonYear": 2026,
+      "title": {
+        "english": "Aoashi Season 2",
+        "romaji": "Aoashi 2nd Season"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191788-XC6F24LdX6a4.jpg"
+      },
+      "nextAiringEpisode": {
+        "episode": 5,
+        "timeUntilAiring": 568430
       }
     },
     {
@@ -336,8 +319,25 @@
         "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186541-caYpLsLmbCh7.jpg"
       },
       "nextAiringEpisode": {
-        "episode": 3,
-        "timeUntilAiring": 13913
+        "episode": 5,
+        "timeUntilAiring": 584630
+      }
+    },
+    {
+      "id": 158871,
+      "format": "TV",
+      "season": "SPRING",
+      "seasonYear": 2023,
+      "title": {
+        "english": "Pokémon Horizons: The Series",
+        "romaji": "Pocket Monsters (2023)"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158871-GBM9AMDfDRSu.jpg"
+      },
+      "nextAiringEpisode": {
+        "episode": 155,
+        "timeUntilAiring": 402530
       }
     }
   ]
