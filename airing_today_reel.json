@@ -1,44 +1,70 @@
 {
-  "date": "2026-10-24",
+  "date": "2026-10-25",
   "data": [
     {
-      "id": 195604,
-      "title_english": "Black Clover 2nd Season",
-      "title_romaji": "Black Clover 2nd Season",
-      "cover_image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195604-tSZcfKbVqSEG.jpg",
+      "id": 189123,
+      "title_english": "Ao no Hako Season 2",
+      "title_romaji": "Ao no Hako Season 2",
+      "cover_image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189123-0secXELIhkIW.jpg",
       "next_ep": 4,
-      "next_ep_time": 48598,
+      "next_ep_time": 25196,
       "format": "TV",
       "season": "FALL",
       "season_year": 2026,
       "status": "RELEASING",
-      "airing_at": 1792851614
+      "airing_at": 1792914624
     },
     {
-      "id": 202250,
-      "title_english": "Magic Repo Man: Dumped by My Party, I’ll Cash In With a Cute Support Fairy to Become the Strongest!",
-      "title_romaji": "Kashita Maryoku wa [Revo Barai] de Kyousei Choushuu",
-      "cover_image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202250-mpm2cvr92Au2.jpg",
-      "next_ep": 4,
-      "next_ep_time": 57590,
+      "id": 185756,
+      "title_english": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3",
+      "title_romaji": "Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season",
+      "cover_image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185756-xPCl0RyQ7fXD.jpg",
+      "next_ep": 5,
+      "next_ep_time": 50394,
       "format": "TV",
       "season": "FALL",
       "season_year": 2026,
       "status": "RELEASING",
-      "airing_at": 1792860606
+      "airing_at": 1792939822
     },
     {
-      "id": 209872,
-      "title_english": "Ranma 1/2 (2024) 3rd Season",
-      "title_romaji": "Ranma 1/2 (2024) 3rd Season",
-      "cover_image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209872-RBeVPqwejHFp.jpg",
-      "next_ep": 4,
-      "next_ep_time": 55550,
+      "id": 206814,
+      "title_english": "Dragon Ball Super: Beerus",
+      "title_romaji": "Dragon Ball Super: Beerus",
+      "cover_image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206814-PVVzRbf1IQpe.jpg",
+      "next_ep": 3,
+      "next_ep_time": 49556,
       "format": "TV",
       "season": "FALL",
       "season_year": 2026,
       "status": "RELEASING",
-      "airing_at": 1792858566
+      "airing_at": 1792938984
+    },
+    {
+      "id": 191788,
+      "title_english": "Aoashi 2nd Season",
+      "title_romaji": "Aoashi 2nd Season",
+      "cover_image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191788-XC6F24LdX6a4.jpg",
+      "next_ep": 4,
+      "next_ep_time": 26992,
+      "format": "TV",
+      "season": "FALL",
+      "season_year": 2026,
+      "status": "RELEASING",
+      "airing_at": 1792916420
+    },
+    {
+      "id": 186541,
+      "title_english": "Mezametara Saikyou Soubi to Uchuusen-mochi datta node, Ikkodate Mezashite Youhei to shite Jiyuu ni Ikitai",
+      "title_romaji": "Mezametara Saikyou Soubi to Uchuusen-mochi datta node, Ikkodate Mezashite Youhei to shite Jiyuu ni Ikitai",
+      "cover_image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186541-caYpLsLmbCh7.jpg",
+      "next_ep": 4,
+      "next_ep_time": 43190,
+      "format": "TV",
+      "season": "FALL",
+      "season_year": 2026,
+      "status": "RELEASING",
+      "airing_at": 1792932618
     }
   ]
 }
