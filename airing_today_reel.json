@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "data": [
     {
       "id": 180136,
@@ -12,7 +12,20 @@
       "season": "SUMMER",
       "season_year": 2026,
       "status": "RELEASING",
-      "airing_at": 1793288775
+      "airing_at": 1793375178
+    },
+    {
+      "id": 178083,
+      "title_english": "Tokyo Revengers: War of the Three Titans Arc",
+      "title_romaji": "Tokyo Revengers: Santen Sensou-hen",
+      "cover_image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178083-bg7pg6TCHwtG.jpg",
+      "next_ep": 5,
+      "next_ep_time": 47950,
+      "format": "TV",
+      "season": "FALL",
+      "season_year": 2026,
+      "status": "RELEASING",
+      "airing_at": 1793380170
     },
     {
       "id": 213805,
@@ -25,7 +38,7 @@
       "season": "FALL",
       "season_year": 2026,
       "status": "RELEASING",
-      "airing_at": 1793286973
+      "airing_at": 1793373376
     },
     {
       "id": 206401,
@@ -38,7 +51,7 @@
       "season": "FALL",
       "season_year": 2026,
       "status": "RELEASING",
-      "airing_at": 1793278207
+      "airing_at": 1793364610
     }
   ]
 }
