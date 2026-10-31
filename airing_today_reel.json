@@ -1,57 +1,44 @@
 {
-  "date": "2026-10-30",
+  "date": "2026-10-31",
   "data": [
     {
-      "id": 180136,
-      "title_english": "Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru",
-      "title_romaji": "Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru",
-      "cover_image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180136-gtMTCRlOD4OE.jpg",
-      "next_ep": 18,
-      "next_ep_time": 42958,
-      "format": "TV",
-      "season": "SUMMER",
-      "season_year": 2026,
-      "status": "RELEASING",
-      "airing_at": 1793375178
-    },
-    {
-      "id": 178083,
-      "title_english": "Tokyo Revengers: War of the Three Titans Arc",
-      "title_romaji": "Tokyo Revengers: Santen Sensou-hen",
-      "cover_image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178083-bg7pg6TCHwtG.jpg",
+      "id": 195604,
+      "title_english": "Black Clover 2nd Season",
+      "title_romaji": "Black Clover 2nd Season",
+      "cover_image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195604-tSZcfKbVqSEG.jpg",
       "next_ep": 5,
-      "next_ep_time": 47950,
+      "next_ep_time": 37798,
       "format": "TV",
       "season": "FALL",
       "season_year": 2026,
       "status": "RELEASING",
-      "airing_at": 1793380170
+      "airing_at": 1793455226
     },
     {
-      "id": 213805,
-      "title_english": "The Ramparts of Ice Season 2",
-      "title_romaji": "Koori no Jouheki 2nd Season",
-      "cover_image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213805-Nokui3uWlIlw.png",
+      "id": 202250,
+      "title_english": "Magic Repo Man: Dumped by My Party, I’ll Cash In With a Cute Support Fairy to Become the Strongest!",
+      "title_romaji": "Kashita Maryoku wa [Revo Barai] de Kyousei Choushuu",
+      "cover_image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202250-mpm2cvr92Au2.jpg",
       "next_ep": 5,
-      "next_ep_time": 41156,
+      "next_ep_time": 46795,
       "format": "TV",
       "season": "FALL",
       "season_year": 2026,
       "status": "RELEASING",
-      "airing_at": 1793373376
+      "airing_at": 1793464223
     },
     {
-      "id": 206401,
-      "title_english": "FX Fighter Kurumi-chan",
-      "title_romaji": "FX Senshi Kurumi-chan",
-      "cover_image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206401-8cAebkI0i8BA.png",
-      "next_ep": 5,
-      "next_ep_time": 32390,
+      "id": 195571,
+      "title_english": "The Vermilion Mask",
+      "title_romaji": "Shuiro no Kamen",
+      "cover_image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195571-fvj7u5GI7BRT.jpg",
+      "next_ep": 4,
+      "next_ep_time": 17991,
       "format": "TV",
       "season": "FALL",
       "season_year": 2026,
       "status": "RELEASING",
-      "airing_at": 1793364610
+      "airing_at": 1793435419
     }
   ]
 }
