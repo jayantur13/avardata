@@ -14,7 +14,7 @@
       },
       "nextAiringEpisode": {
         "episode": 1181,
-        "timeUntilAiring": 6034190
+        "timeUntilAiring": 5481842
       }
     },
     {
@@ -30,8 +30,8 @@
         "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195516-MJpUZlOberqH.jpg"
       },
       "nextAiringEpisode": {
-        "episode": 5,
-        "timeUntilAiring": 417230
+        "episode": 6,
+        "timeUntilAiring": 469682
       }
     },
     {
@@ -47,25 +47,8 @@
         "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195604-tSZcfKbVqSEG.jpg"
       },
       "nextAiringEpisode": {
-        "episode": 5,
-        "timeUntilAiring": 503630
-      }
-    },
-    {
-      "id": 185874,
-      "format": "TV",
-      "season": "SUMMER",
-      "seasonYear": 2026,
-      "title": {
-        "english": "BLEACH: Thousand-Year Blood War - The Calamity",
-        "romaji": "BLEACH: Sennen Kessen-hen - Kashin-tan"
-      },
-      "coverImage": {
-        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185874-aU3e6tBT6wwA.jpg"
-      },
-      "nextAiringEpisode": {
-        "episode": 10,
-        "timeUntilAiring": 75230
+        "episode": 6,
+        "timeUntilAiring": 556082
       }
     },
     {
@@ -81,8 +64,8 @@
         "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx235-MyYT7K3chBdO.jpg"
       },
       "nextAiringEpisode": {
-        "episode": 1218,
-        "timeUntilAiring": 485630
+        "episode": 1219,
+        "timeUntilAiring": 538082
       }
     },
     {
@@ -98,8 +81,8 @@
         "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180136-gtMTCRlOD4OE.jpg"
       },
       "nextAiringEpisode": {
-        "episode": 18,
-        "timeUntilAiring": 335990
+        "episode": 19,
+        "timeUntilAiring": 388442
       }
     },
     {
@@ -116,7 +99,7 @@
       },
       "nextAiringEpisode": {
         "episode": 5,
-        "timeUntilAiring": 566630
+        "timeUntilAiring": 619082
       }
     },
     {
@@ -132,8 +115,8 @@
         "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205909-DM0fAzNQulod.jpg"
       },
       "nextAiringEpisode": {
-        "episode": 4,
-        "timeUntilAiring": 419030
+        "episode": 5,
+        "timeUntilAiring": 471482
       }
     },
     {
@@ -149,25 +132,8 @@
         "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b207329-6VPeZIDfF4Sr.png"
       },
       "nextAiringEpisode": {
-        "episode": 4,
-        "timeUntilAiring": 161630
-      }
-    },
-    {
-      "id": 178083,
-      "format": "TV",
-      "season": "FALL",
-      "seasonYear": 2026,
-      "title": {
-        "english": "Tokyo Revengers: War of the Three Titans Arc",
-        "romaji": "Tokyo Revengers: Santen Sensou-hen"
-      },
-      "coverImage": {
-        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178083-bg7pg6TCHwtG.jpg"
-      },
-      "nextAiringEpisode": {
         "episode": 5,
-        "timeUntilAiring": 427610
+        "timeUntilAiring": 214082
       }
     },
     {
@@ -183,8 +149,25 @@
         "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213805-Nokui3uWlIlw.png"
       },
       "nextAiringEpisode": {
-        "episode": 5,
-        "timeUntilAiring": 334190
+        "episode": 6,
+        "timeUntilAiring": 386642
+      }
+    },
+    {
+      "id": 178083,
+      "format": "TV",
+      "season": "FALL",
+      "seasonYear": 2026,
+      "title": {
+        "english": "Tokyo Revengers: War of the Three Titans Arc",
+        "romaji": "Tokyo Revengers: Santen Sensou-hen"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178083-bg7pg6TCHwtG.jpg"
+      },
+      "nextAiringEpisode": {
+        "episode": 6,
+        "timeUntilAiring": 480062
       }
     },
     {
@@ -200,25 +183,8 @@
         "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172192-W7P5xEUaxF3y.jpg"
       },
       "nextAiringEpisode": {
-        "episode": 4,
-        "timeUntilAiring": 250730
-      }
-    },
-    {
-      "id": 185756,
-      "format": "TV",
-      "season": "FALL",
-      "seasonYear": 2026,
-      "title": {
-        "english": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3",
-        "romaji": "Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season"
-      },
-      "coverImage": {
-        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185756-xPCl0RyQ7fXD.jpg"
-      },
-      "nextAiringEpisode": {
-        "episode": 6,
-        "timeUntilAiring": 591830
+        "episode": 5,
+        "timeUntilAiring": 303182
       }
     },
     {
@@ -235,7 +201,24 @@
       },
       "nextAiringEpisode": {
         "episode": 4,
-        "timeUntilAiring": 590990
+        "timeUntilAiring": 38642
+      }
+    },
+    {
+      "id": 185756,
+      "format": "TV",
+      "season": "FALL",
+      "seasonYear": 2026,
+      "title": {
+        "english": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3",
+        "romaji": "Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185756-xPCl0RyQ7fXD.jpg"
+      },
+      "nextAiringEpisode": {
+        "episode": 6,
+        "timeUntilAiring": 39482
       }
     },
     {
@@ -251,25 +234,8 @@
         "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207191-VgkIzfH92WoZ.jpg"
       },
       "nextAiringEpisode": {
-        "episode": 4,
-        "timeUntilAiring": 66230
-      }
-    },
-    {
-      "id": 152677,
-      "format": "TV",
-      "season": "FALL",
-      "seasonYear": 2026,
-      "title": {
-        "english": "The Detective Is Already Dead Season 2",
-        "romaji": "Tantei wa mou, Shindeiru. Season 2"
-      },
-      "coverImage": {
-        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx152677-gtJbgjE94lCN.png"
-      },
-      "nextAiringEpisode": {
-        "episode": 4,
-        "timeUntilAiring": 239030
+        "episode": 5,
+        "timeUntilAiring": 118682
       }
     },
     {
@@ -285,25 +251,8 @@
         "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206949-4HYI3YuP0eLI.png"
       },
       "nextAiringEpisode": {
-        "episode": 4,
-        "timeUntilAiring": 152390
-      }
-    },
-    {
-      "id": 191788,
-      "format": "TV",
-      "season": "FALL",
-      "seasonYear": 2026,
-      "title": {
-        "english": "Aoashi Season 2",
-        "romaji": "Aoashi 2nd Season"
-      },
-      "coverImage": {
-        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191788-XC6F24LdX6a4.jpg"
-      },
-      "nextAiringEpisode": {
         "episode": 5,
-        "timeUntilAiring": 568430
+        "timeUntilAiring": 204842
       }
     },
     {
@@ -320,7 +269,41 @@
       },
       "nextAiringEpisode": {
         "episode": 5,
-        "timeUntilAiring": 584630
+        "timeUntilAiring": 32282
+      }
+    },
+    {
+      "id": 191788,
+      "format": "TV",
+      "season": "FALL",
+      "seasonYear": 2026,
+      "title": {
+        "english": "Aoashi Season 2",
+        "romaji": "Aoashi 2nd Season"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191788-XC6F24LdX6a4.jpg"
+      },
+      "nextAiringEpisode": {
+        "episode": 5,
+        "timeUntilAiring": 16082
+      }
+    },
+    {
+      "id": 152677,
+      "format": "TV",
+      "season": "FALL",
+      "seasonYear": 2026,
+      "title": {
+        "english": "The Detective Is Already Dead Season 2",
+        "romaji": "Tantei wa mou, Shindeiru. Season 2"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx152677-gtJbgjE94lCN.png"
+      },
+      "nextAiringEpisode": {
+        "episode": 5,
+        "timeUntilAiring": 291482
       }
     },
     {
@@ -336,8 +319,25 @@
         "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158871-GBM9AMDfDRSu.jpg"
       },
       "nextAiringEpisode": {
-        "episode": 155,
-        "timeUntilAiring": 402530
+        "episode": 156,
+        "timeUntilAiring": 454982
+      }
+    },
+    {
+      "id": 202250,
+      "format": "TV",
+      "season": "FALL",
+      "seasonYear": 2026,
+      "title": {
+        "english": "Magic Repo Man: Dumped by My Party, I’ll Cash In With a Cute Support Fairy to Become the Strongest!",
+        "romaji": "Kashita Maryoku wa [Revo Barai] de Kyousei Choushuu"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202250-mpm2cvr92Au2.jpg"
+      },
+      "nextAiringEpisode": {
+        "episode": 6,
+        "timeUntilAiring": 565082
       }
     }
   ]
