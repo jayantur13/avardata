@@ -1,25 +1,188 @@
 {
-  "month": 12,
+  "month": 11,
   "year": 2026,
   "data": [
     {
-      "id": 200929,
+      "id": 143103,
       "title": {
-        "english": "The Apothecary Diaries: The Late Lady’s Treasure",
-        "romaji": "Kusuriya no Hitorigoto: Bouhi no Hihou"
+        "english": "Witch on the Holy Night",
+        "romaji": "Mahoutsukai no Yoru"
       },
       "coverImage": {
-        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx200929-dx3hnftE7K7C.jpg"
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143103-vvsaIpZPpIuE.png"
       },
       "startDate": {
         "year": 2026,
-        "month": 12
+        "month": 11
       },
       "format": "MOVIE",
       "studios": {
         "nodes": [
           {
-            "name": "TOHO animation STUDIO"
+            "name": "ufotable"
+          }
+        ]
+      }
+    },
+    {
+      "id": 178972,
+      "title": {
+        "english": null,
+        "romaji": "GROTESQQQUE"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178972-THp4trZ9uR9b.jpg"
+      },
+      "startDate": {
+        "year": 2026,
+        "month": 11
+      },
+      "format": "MOVIE",
+      "studios": {
+        "nodes": [
+          {
+            "name": "CloverWorks"
+          }
+        ]
+      }
+    },
+    {
+      "id": 203275,
+      "title": {
+        "english": "Devils' Crest",
+        "romaji": "Demons' Crest"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b203275-YyNHygkzIjMC.jpg"
+      },
+      "startDate": {
+        "year": 2026,
+        "month": 11
+      },
+      "format": "TV",
+      "studios": {
+        "nodes": [
+          {
+            "name": "Production I.G"
+          }
+        ]
+      }
+    },
+    {
+      "id": 212539,
+      "title": {
+        "english": null,
+        "romaji": "Takopii no Genzai: Arigatou, Mata Ashita"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212539-uiod38Ml39AZ.png"
+      },
+      "startDate": {
+        "year": 2026,
+        "month": 11
+      },
+      "format": "MOVIE",
+      "studios": {
+        "nodes": [
+          {
+            "name": "ENISHIYA"
+          }
+        ]
+      }
+    },
+    {
+      "id": 157330,
+      "title": {
+        "english": null,
+        "romaji": "Rakuen Tsuihou: Kokoro no Resonance"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx157330-Ow09pWu8lqCT.jpg"
+      },
+      "startDate": {
+        "year": 2026,
+        "month": 11
+      },
+      "format": "MOVIE",
+      "studios": {
+        "nodes": [
+          {
+            "name": "Toei Animation"
+          }
+        ]
+      }
+    },
+    {
+      "id": 206163,
+      "title": {
+        "english": null,
+        "romaji": "Soukou Kihei Votoms: Haiiro no Hexe"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206163-pDqpH6qyKhmV.png"
+      },
+      "startDate": {
+        "year": 2026,
+        "month": 11
+      },
+      "format": "MOVIE",
+      "studios": {
+        "nodes": [
+          {
+            "name": "Production I.G"
+          },
+          {
+            "name": "Sunrise"
+          }
+        ]
+      }
+    },
+    {
+      "id": 214536,
+      "title": {
+        "english": "CARDFIGHT!! VANGUARD Divinez: Parallactic Fate",
+        "romaji": "Cardfight!! Vanguard Divinez Unmei Seisen-hen"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx214536-dl2KJdHcKWJl.jpg"
+      },
+      "startDate": {
+        "year": 2026,
+        "month": 11
+      },
+      "format": "TV",
+      "studios": {
+        "nodes": [
+          {
+            "name": "Kinema Citrus"
+          },
+          {
+            "name": "Gift-o’-Animation"
+          },
+          {
+            "name": "Studio JEMI"
+          }
+        ]
+      }
+    },
+    {
+      "id": 218679,
+      "title": {
+        "english": null,
+        "romaji": "Jewel Catch! Tiniping"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx218679-6nkG8AEtf0UZ.png"
+      },
+      "startDate": {
+        "year": 2026,
+        "month": 11
+      },
+      "format": "TV_SHORT",
+      "studios": {
+        "nodes": [
+          {
+            "name": "SAMG Animation"
           }
         ]
       }
