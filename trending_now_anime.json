@@ -1,27 +1,6 @@
 {
   "data": [
     {
-      "id": 185646,
-      "title": {
-        "english": null,
-        "romaji": "Koupen-chan"
-      },
-      "coverImage": {
-        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185646-2eGmsnaSHiLC.jpg"
-      },
-      "averageScore": 70,
-      "studios": {
-        "nodes": [
-          {
-            "name": "Lesprit"
-          }
-        ]
-      },
-      "format": "TV_SHORT",
-      "season": "SPRING",
-      "seasonYear": 2025
-    },
-    {
       "id": 207329,
       "title": {
         "english": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
@@ -43,19 +22,19 @@
       "seasonYear": 2026
     },
     {
-      "id": 202250,
+      "id": 206949,
       "title": {
-        "english": "Magic Repo Man: Dumped by My Party, I’ll Cash In With a Cute Support Fairy to Become the Strongest!",
-        "romaji": "Kashita Maryoku wa [Revo Barai] de Kyousei Choushuu"
+        "english": "Nia Liston: The Merciless Maiden",
+        "romaji": "Kyouran Reijou Nia Liston"
       },
       "coverImage": {
-        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202250-mpm2cvr92Au2.jpg"
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206949-4HYI3YuP0eLI.png"
       },
-      "averageScore": 61,
+      "averageScore": 75,
       "studios": {
         "nodes": [
           {
-            "name": "SynergySP"
+            "name": "KONAMI animation"
           }
         ]
       },
@@ -64,36 +43,57 @@
       "seasonYear": 2026
     },
     {
-      "id": 203490,
+      "id": 213805,
       "title": {
-        "english": "Please Excuse My Younger Brothers",
-        "romaji": "Uchi no Otouto-domo ga Sumimasen"
+        "english": "The Ramparts of Ice Season 2",
+        "romaji": "Koori no Jouheki 2nd Season"
       },
       "coverImage": {
-        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx203490-YQXiymUiDQNA.jpg"
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213805-Nokui3uWlIlw.png"
       },
-      "averageScore": 69,
+      "averageScore": 81,
       "studios": {
         "nodes": [
           {
-            "name": "Lay-duce"
+            "name": "Studio KAI"
           }
         ]
       },
       "format": "TV",
-      "season": "SUMMER",
+      "season": "FALL",
       "seasonYear": 2026
     },
     {
-      "id": 209032,
+      "id": 213657,
       "title": {
-        "english": "Magical Sisters LuluttoLilly Part 2",
-        "romaji": "Mahou no Shimai LuluttoLilly Part 2"
+        "english": "Mission: Yozakura Family Season 2 Part 2",
+        "romaji": "Yozakura-san Chi no Daisakusen 2nd Season Part 2"
       },
       "coverImage": {
-        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209032-R0gP5IFdk7Vd.jpg"
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213657-ORNXVEBCjXaz.jpg"
       },
-      "averageScore": 62,
+      "averageScore": 72,
+      "studios": {
+        "nodes": [
+          {
+            "name": "SILVER LINK."
+          }
+        ]
+      },
+      "format": "TV",
+      "season": "FALL",
+      "seasonYear": 2026
+    },
+    {
+      "id": 195604,
+      "title": {
+        "english": "Black Clover Season 2",
+        "romaji": "Black Clover 2nd Season"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195604-tSZcfKbVqSEG.jpg"
+      },
+      "averageScore": 87,
       "studios": {
         "nodes": [
           {
@@ -106,19 +106,19 @@
       "seasonYear": 2026
     },
     {
-      "id": 172192,
+      "id": 212799,
       "title": {
-        "english": "A Returner's Magic Should be Special Season 2",
-        "romaji": "Kikansha no Mahou wa Tokubetsu desu 2nd Season"
+        "english": "The Seven Knights of the Marronnier Kingdom",
+        "romaji": "Marronnier Oukoku no Shichinin no Kishi"
       },
       "coverImage": {
-        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172192-W7P5xEUaxF3y.jpg"
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212799-n7WDdic7IL1z.png"
       },
-      "averageScore": 69,
+      "averageScore": 67,
       "studios": {
         "nodes": [
           {
-            "name": "Arvo Animation"
+            "name": "J.C.STAFF"
           }
         ]
       },
@@ -127,24 +127,24 @@
       "seasonYear": 2026
     },
     {
-      "id": 200455,
+      "id": 202957,
       "title": {
-        "english": "Even Though I'm a Super Timid Noble Girl, I Accepted the Bet From My Cunning Fiancé",
-        "romaji": "Yowaki MAX Reijou Nano ni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta"
+        "english": "Star Detective Precure!",
+        "romaji": "Meitantei Precure!"
       },
       "coverImage": {
-        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx200455-P3XStRQMJ7Di.png"
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202957-fxZGgJTvwXzP.jpg"
       },
-      "averageScore": 67,
+      "averageScore": 76,
       "studios": {
         "nodes": [
           {
-            "name": "Jumondou"
+            "name": "Toei Animation"
           }
         ]
       },
       "format": "TV",
-      "season": "FALL",
+      "season": "WINTER",
       "seasonYear": 2026
     }
   ]
