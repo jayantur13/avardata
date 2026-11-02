@@ -1,44 +1,18 @@
 {
-  "date": "2026-11-01",
+  "date": "2026-11-02",
   "data": [
     {
-      "id": 206814,
-      "title_english": "Dragon Ball Super: Beerus",
-      "title_romaji": "Dragon Ball Super: Beerus",
-      "cover_image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206814-PVVzRbf1IQpe.jpg",
-      "next_ep": 4,
-      "next_ep_time": 38756,
-      "format": "TV",
-      "season": "FALL",
-      "season_year": 2026,
-      "status": "RELEASING",
-      "airing_at": 1793542585
-    },
-    {
-      "id": 186541,
-      "title_english": "Mezametara Saikyou Soubi to Uchuusen-mochi datta node, Ikkodate Mezashite Youhei to shite Jiyuu ni Ikitai",
-      "title_romaji": "Mezametara Saikyou Soubi to Uchuusen-mochi datta node, Ikkodate Mezashite Youhei to shite Jiyuu ni Ikitai",
-      "cover_image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186541-caYpLsLmbCh7.jpg",
+      "id": 207191,
+      "title_english": "Hello, I am a Witch and my Crush Wants me to Make a Love Potion!",
+      "title_romaji": "Doumo, Suki na Hito ni Horegusuri wo Irai Sareta Majo desu.",
+      "cover_image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207191-VgkIzfH92WoZ.jpg",
       "next_ep": 5,
-      "next_ep_time": 32392,
+      "next_ep_time": 25009,
       "format": "TV",
       "season": "FALL",
       "season_year": 2026,
       "status": "RELEASING",
-      "airing_at": 1793536221
-    },
-    {
-      "id": 191788,
-      "title_english": "Aoashi 2nd Season",
-      "title_romaji": "Aoashi 2nd Season",
-      "cover_image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191788-XC6F24LdX6a4.jpg",
-      "next_ep": 5,
-      "next_ep_time": 16192,
-      "format": "TV",
-      "season": "FALL",
-      "season_year": 2026,
-      "status": "RELEASING",
-      "airing_at": 1793520021
+      "airing_at": 1793622617
     }
   ]
 }
