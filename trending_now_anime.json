@@ -1,19 +1,19 @@
 {
   "data": [
     {
-      "id": 207329,
+      "id": 204650,
       "title": {
-        "english": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
-        "romaji": "Tsuihou Sareta Cheat Fuyo Majutsushi wa Kimama na Second Life wo Ouka Suru.: Ore wa Buki dake ja Naku, Arayuru Mono ni \"Kyouka Point\" wo Fuyo Dekiru shi, Ore no Ishi de Itsudemo Kouka wo Kaijo Dekiru kedo, Nokotta Hitotachi Daijoubu?"
+        "english": "TOUGEN ANKI: Nikko Kegon Falls Arc",
+        "romaji": "Tougen Anki: Nikko・Kegon no Taki-hen"
       },
       "coverImage": {
-        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b207329-6VPeZIDfF4Sr.png"
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204650-cAQOzQ84Lwk8.png"
       },
-      "averageScore": 73,
+      "averageScore": 72,
       "studios": {
         "nodes": [
           {
-            "name": "P.A.WORKS"
+            "name": "Studio Hibari"
           }
         ]
       },
@@ -22,15 +22,120 @@
       "seasonYear": 2026
     },
     {
-      "id": 206949,
+      "id": 191788,
       "title": {
-        "english": "Nia Liston: The Merciless Maiden",
-        "romaji": "Kyouran Reijou Nia Liston"
+        "english": "Aoashi Season 2",
+        "romaji": "Aoashi 2nd Season"
       },
       "coverImage": {
-        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206949-4HYI3YuP0eLI.png"
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191788-XC6F24LdX6a4.jpg"
       },
-      "averageScore": 75,
+      "averageScore": 80,
+      "studios": {
+        "nodes": [
+          {
+            "name": "TMS Entertainment"
+          }
+        ]
+      },
+      "format": "TV",
+      "season": "FALL",
+      "seasonYear": 2026
+    },
+    {
+      "id": 205896,
+      "title": {
+        "english": "Full Clearing Another World under a Goddess with Zero Believers",
+        "romaji": "Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205896-ElrV8oVAsuax.jpg"
+      },
+      "averageScore": 65,
+      "studios": {
+        "nodes": [
+          {
+            "name": "HORNETS"
+          }
+        ]
+      },
+      "format": "TV",
+      "season": "FALL",
+      "seasonYear": 2026
+    },
+    {
+      "id": 180136,
+      "title": {
+        "english": "The Exiled Heavy Knight Knows How to Game the System",
+        "romaji": "Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180136-gtMTCRlOD4OE.jpg"
+      },
+      "averageScore": 67,
+      "studios": {
+        "nodes": [
+          {
+            "name": "GoHands"
+          }
+        ]
+      },
+      "format": "TV",
+      "season": "SUMMER",
+      "seasonYear": 2026
+    },
+    {
+      "id": 178868,
+      "title": {
+        "english": "Magic Knight Rayearth (2026)",
+        "romaji": "Magic Knight Rayearth (2026)"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178868-mfp0HIHNJNAm.jpg"
+      },
+      "averageScore": 69,
+      "studios": {
+        "nodes": [
+          {
+            "name": "E&H Production"
+          }
+        ]
+      },
+      "format": "TV",
+      "season": "FALL",
+      "seasonYear": 2026
+    },
+    {
+      "id": 186541,
+      "title": {
+        "english": "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!",
+        "romaji": "Mezametara Saikyou Soubi to Uchuusen-mochi datta node, Ikkodate Mezashite Youhei to shite Jiyuu ni Ikitai"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186541-caYpLsLmbCh7.jpg"
+      },
+      "averageScore": 69,
+      "studios": {
+        "nodes": [
+          {
+            "name": "studio A-CAT"
+          }
+        ]
+      },
+      "format": "TV",
+      "season": "FALL",
+      "seasonYear": 2026
+    },
+    {
+      "id": 187316,
+      "title": {
+        "english": null,
+        "romaji": "Gensou Suikoden"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187316-jucYCojVTjSY.jpg"
+      },
+      "averageScore": 59,
       "studios": {
         "nodes": [
           {
@@ -40,111 +145,6 @@
       },
       "format": "TV",
       "season": "FALL",
-      "seasonYear": 2026
-    },
-    {
-      "id": 213805,
-      "title": {
-        "english": "The Ramparts of Ice Season 2",
-        "romaji": "Koori no Jouheki 2nd Season"
-      },
-      "coverImage": {
-        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213805-Nokui3uWlIlw.png"
-      },
-      "averageScore": 81,
-      "studios": {
-        "nodes": [
-          {
-            "name": "Studio KAI"
-          }
-        ]
-      },
-      "format": "TV",
-      "season": "FALL",
-      "seasonYear": 2026
-    },
-    {
-      "id": 213657,
-      "title": {
-        "english": "Mission: Yozakura Family Season 2 Part 2",
-        "romaji": "Yozakura-san Chi no Daisakusen 2nd Season Part 2"
-      },
-      "coverImage": {
-        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213657-ORNXVEBCjXaz.jpg"
-      },
-      "averageScore": 72,
-      "studios": {
-        "nodes": [
-          {
-            "name": "SILVER LINK."
-          }
-        ]
-      },
-      "format": "TV",
-      "season": "FALL",
-      "seasonYear": 2026
-    },
-    {
-      "id": 195604,
-      "title": {
-        "english": "Black Clover Season 2",
-        "romaji": "Black Clover 2nd Season"
-      },
-      "coverImage": {
-        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195604-tSZcfKbVqSEG.jpg"
-      },
-      "averageScore": 87,
-      "studios": {
-        "nodes": [
-          {
-            "name": "Studio Pierrot"
-          }
-        ]
-      },
-      "format": "TV",
-      "season": "FALL",
-      "seasonYear": 2026
-    },
-    {
-      "id": 212799,
-      "title": {
-        "english": "The Seven Knights of the Marronnier Kingdom",
-        "romaji": "Marronnier Oukoku no Shichinin no Kishi"
-      },
-      "coverImage": {
-        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212799-n7WDdic7IL1z.png"
-      },
-      "averageScore": 67,
-      "studios": {
-        "nodes": [
-          {
-            "name": "J.C.STAFF"
-          }
-        ]
-      },
-      "format": "TV",
-      "season": "FALL",
-      "seasonYear": 2026
-    },
-    {
-      "id": 202957,
-      "title": {
-        "english": "Star Detective Precure!",
-        "romaji": "Meitantei Precure!"
-      },
-      "coverImage": {
-        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202957-fxZGgJTvwXzP.jpg"
-      },
-      "averageScore": 76,
-      "studios": {
-        "nodes": [
-          {
-            "name": "Toei Animation"
-          }
-        ]
-      },
-      "format": "TV",
-      "season": "WINTER",
       "seasonYear": 2026
     }
   ]
