@@ -1,31 +1,70 @@
 {
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "data": [
     {
-      "id": 180136,
-      "title_english": "Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru",
-      "title_romaji": "Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru",
-      "cover_image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180136-gtMTCRlOD4OE.jpg",
-      "next_ep": 19,
-      "next_ep_time": 42958,
-      "format": "TV",
-      "season": "SUMMER",
-      "season_year": 2026,
-      "status": "RELEASING",
-      "airing_at": 1793892386
-    },
-    {
-      "id": 213805,
-      "title_english": "The Ramparts of Ice Season 2",
-      "title_romaji": "Koori no Jouheki 2nd Season",
-      "cover_image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213805-Nokui3uWlIlw.png",
+      "id": 195516,
+      "title_english": "Kusuriya no Hitorigoto 3rd Season",
+      "title_romaji": "Kusuriya no Hitorigoto 3rd Season",
+      "cover_image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195516-MJpUZlOberqH.jpg",
       "next_ep": 6,
-      "next_ep_time": 41157,
+      "next_ep_time": 37798,
       "format": "TV",
       "season": "FALL",
       "season_year": 2026,
       "status": "RELEASING",
-      "airing_at": 1793890585
+      "airing_at": 1793973642
+    },
+    {
+      "id": 205909,
+      "title_english": "Hotaru no Yomeiri",
+      "title_romaji": "Hotaru no Yomeiri",
+      "cover_image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205909-DM0fAzNQulod.jpg",
+      "next_ep": 5,
+      "next_ep_time": 39598,
+      "format": "TV",
+      "season": "FALL",
+      "season_year": 2026,
+      "status": "RELEASING",
+      "airing_at": 1793975442
+    },
+    {
+      "id": 178083,
+      "title_english": "Tokyo Revengers: War of the Three Titans Arc",
+      "title_romaji": "Tokyo Revengers: Santen Sensou-hen",
+      "cover_image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178083-bg7pg6TCHwtG.jpg",
+      "next_ep": 6,
+      "next_ep_time": 48175,
+      "format": "TV",
+      "season": "FALL",
+      "season_year": 2026,
+      "status": "RELEASING",
+      "airing_at": 1793984019
+    },
+    {
+      "id": 186742,
+      "title_english": "A Certain Dark Item",
+      "title_romaji": "Toaru Anbu no ITEM",
+      "cover_image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186742-v7yfbefc8fuO.png",
+      "next_ep": 5,
+      "next_ep_time": 35991,
+      "format": "TV",
+      "season": "FALL",
+      "season_year": 2026,
+      "status": "RELEASING",
+      "airing_at": 1793971835
+    },
+    {
+      "id": 216895,
+      "title_english": "Aoki Denshou: Welsh & Shedar",
+      "title_romaji": "Aoki Denshou: Welsh & Shedar",
+      "cover_image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx216895-Ofx4FSKFa4CQ.jpg",
+      "next_ep": 6,
+      "next_ep_time": 32155,
+      "format": "TV",
+      "season": "FALL",
+      "season_year": 2026,
+      "status": "RELEASING",
+      "airing_at": 1793967999
     }
   ]
 }
