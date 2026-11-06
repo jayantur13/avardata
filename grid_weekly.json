@@ -14,7 +14,7 @@
       },
       "nextAiringEpisode": {
         "episode": 1181,
-        "timeUntilAiring": 5481842
+        "timeUntilAiring": 5049897
       }
     },
     {
@@ -31,7 +31,7 @@
       },
       "nextAiringEpisode": {
         "episode": 6,
-        "timeUntilAiring": 469682
+        "timeUntilAiring": 37737
       }
     },
     {
@@ -48,7 +48,7 @@
       },
       "nextAiringEpisode": {
         "episode": 6,
-        "timeUntilAiring": 556082
+        "timeUntilAiring": 124137
       }
     },
     {
@@ -65,7 +65,7 @@
       },
       "nextAiringEpisode": {
         "episode": 1219,
-        "timeUntilAiring": 538082
+        "timeUntilAiring": 106137
       }
     },
     {
@@ -81,8 +81,8 @@
         "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180136-gtMTCRlOD4OE.jpg"
       },
       "nextAiringEpisode": {
-        "episode": 19,
-        "timeUntilAiring": 388442
+        "episode": 20,
+        "timeUntilAiring": 561297
       }
     },
     {
@@ -99,7 +99,7 @@
       },
       "nextAiringEpisode": {
         "episode": 5,
-        "timeUntilAiring": 619082
+        "timeUntilAiring": 187137
       }
     },
     {
@@ -116,7 +116,7 @@
       },
       "nextAiringEpisode": {
         "episode": 5,
-        "timeUntilAiring": 471482
+        "timeUntilAiring": 39537
       }
     },
     {
@@ -132,8 +132,8 @@
         "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b207329-6VPeZIDfF4Sr.png"
       },
       "nextAiringEpisode": {
-        "episode": 5,
-        "timeUntilAiring": 214082
+        "episode": 6,
+        "timeUntilAiring": 386937
       }
     },
     {
@@ -149,8 +149,8 @@
         "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213805-Nokui3uWlIlw.png"
       },
       "nextAiringEpisode": {
-        "episode": 6,
-        "timeUntilAiring": 386642
+        "episode": 7,
+        "timeUntilAiring": 559497
       }
     },
     {
@@ -167,7 +167,7 @@
       },
       "nextAiringEpisode": {
         "episode": 6,
-        "timeUntilAiring": 480062
+        "timeUntilAiring": 48117
       }
     },
     {
@@ -183,8 +183,8 @@
         "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172192-W7P5xEUaxF3y.jpg"
       },
       "nextAiringEpisode": {
-        "episode": 5,
-        "timeUntilAiring": 303182
+        "episode": 6,
+        "timeUntilAiring": 476037
       }
     },
     {
@@ -200,25 +200,8 @@
         "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206814-PVVzRbf1IQpe.jpg"
       },
       "nextAiringEpisode": {
-        "episode": 4,
-        "timeUntilAiring": 38642
-      }
-    },
-    {
-      "id": 185756,
-      "format": "TV",
-      "season": "FALL",
-      "seasonYear": 2026,
-      "title": {
-        "english": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3",
-        "romaji": "Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season"
-      },
-      "coverImage": {
-        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185756-xPCl0RyQ7fXD.jpg"
-      },
-      "nextAiringEpisode": {
-        "episode": 6,
-        "timeUntilAiring": 39482
+        "episode": 5,
+        "timeUntilAiring": 211497
       }
     },
     {
@@ -234,8 +217,25 @@
         "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207191-VgkIzfH92WoZ.jpg"
       },
       "nextAiringEpisode": {
-        "episode": 5,
-        "timeUntilAiring": 118682
+        "episode": 6,
+        "timeUntilAiring": 291537
+      }
+    },
+    {
+      "id": 185756,
+      "format": "TV",
+      "season": "FALL",
+      "seasonYear": 2026,
+      "title": {
+        "english": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3",
+        "romaji": "Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season"
+      },
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185756-xPCl0RyQ7fXD.jpg"
+      },
+      "nextAiringEpisode": {
+        "episode": 7,
+        "timeUntilAiring": 212337
       }
     },
     {
@@ -251,8 +251,8 @@
         "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206949-4HYI3YuP0eLI.png"
       },
       "nextAiringEpisode": {
-        "episode": 5,
-        "timeUntilAiring": 204842
+        "episode": 6,
+        "timeUntilAiring": 377697
       }
     },
     {
@@ -268,8 +268,8 @@
         "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186541-caYpLsLmbCh7.jpg"
       },
       "nextAiringEpisode": {
-        "episode": 5,
-        "timeUntilAiring": 32282
+        "episode": 6,
+        "timeUntilAiring": 205137
       }
     },
     {
@@ -285,8 +285,8 @@
         "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191788-XC6F24LdX6a4.jpg"
       },
       "nextAiringEpisode": {
-        "episode": 5,
-        "timeUntilAiring": 16082
+        "episode": 6,
+        "timeUntilAiring": 188937
       }
     },
     {
@@ -302,8 +302,8 @@
         "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx152677-gtJbgjE94lCN.png"
       },
       "nextAiringEpisode": {
-        "episode": 5,
-        "timeUntilAiring": 291482
+        "episode": 6,
+        "timeUntilAiring": 464337
       }
     },
     {
@@ -320,7 +320,7 @@
       },
       "nextAiringEpisode": {
         "episode": 156,
-        "timeUntilAiring": 454982
+        "timeUntilAiring": 23037
       }
     },
     {
@@ -337,7 +337,7 @@
       },
       "nextAiringEpisode": {
         "episode": 6,
-        "timeUntilAiring": 565082
+        "timeUntilAiring": 133137
       }
     }
   ]
